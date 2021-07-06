@@ -40,8 +40,8 @@ I am a software and database developer with more than 20 years hands-on experien
 
 ## Showcase
 
-[<img align="left" alt="gisblox-map-analytics" src="https://img.shields.io/badge/GISBlox Map Analytics%20-%23c1004e?style=for-the-badge" />](https://www.gisblox.com/map-analytics)
-[<img align="left" alt="gisblox-grid-statistics" src="https://img.shields.io/badge/GISBlox Grid Statistics%20-%23007bff?style=for-the-badge"/>](https://www.gisblox.com/grid-statistics)
-[<img align="left" alt="beleveniswijzer" src="https://img.shields.io/badge/Beleveniswijzer%20-%23c1004e?style=for-the-badge" />](https://www.beleveniswijzer.nl)
+[<img align="left" alt="gisblox-map-analytics" src="https://img.shields.io/badge/Website-GISBlox Map Analytics%20-%23c1004e?style=for-the-badge" />](https://www.gisblox.com/map-analytics)
+[<img align="left" alt="gisblox-grid-statistics" src="https://img.shields.io/badge/Website-GISBlox Grid Statistics%20-%23007bff?style=for-the-badge"/>](https://www.gisblox.com/grid-statistics)
+[<img align="left" alt="beleveniswijzer" src="https://img.shields.io/badge/Website-Beleveniswijzer%20-%23c1004e?style=for-the-badge" />](https://www.beleveniswijzer.nl)
 <br>
 <br>
